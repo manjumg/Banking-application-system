@@ -1,6 +1,6 @@
 # Banking-application-system 
 
-BankingSystem/
+BankingSystem
 │
 ├── Main.java              # Entry point of the application
 ├── Bank.java              # Bank interface defining standard banking operations
