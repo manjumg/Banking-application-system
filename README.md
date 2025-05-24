@@ -1,15 +1,6 @@
 # Banking-application-system 
 
-BankingSystem
-│
-├── Main.java             
-# Entry point of the application
-├── Bank.java              
-# Bank interface defining standard banking operations
-├── noBank.java            
-# One implementation of Bank (e.g., No-interest bank)
-└── lotakBank.java        
-# Another implementation of Bank (e.g., Local bank with interest)
+<pre> \`\`\` BankingSystem/ │ ├── Main.java # Entry point of the application ├── Bank.java # Bank interface defining standard banking operations ├── noBank.java # One implementation of Bank (e.g., No-interest bank) └── lotakBank.java # Another implementation of Bank (e.g., Local bank with interest) \`\`\` </pre>
 
 📌 **Features**
 
