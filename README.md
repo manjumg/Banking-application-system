@@ -87,8 +87,8 @@
 
 <br>
 
-🧑‍💻 **Author**
- **Manjunath M Goni** – https://github.com/manjumg
+🧑‍💻 **Author** <br>
+ --> **Manjunath M Goni** – https://github.com/manjumg
 
 
 
